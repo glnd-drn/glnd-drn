@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Oracle**
 
-- 💬 Ask me about **anything! If I know I can help you, and If I'm not we can search it and learn together.**
+- 💬 Feel free to ask me about anything! If I have the knowledge, I'll be happy to assist you, and if I don't, we can explore and learn together.
 
 - 📫 How to reach me **glendaduranc@hotmail.com**
 
