@@ -54,13 +54,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/glnd-drn /glnd-drn /output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/glenda-duran/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
