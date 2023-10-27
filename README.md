@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on a project called Smile Clinic.<br><br>🌱 I am currently learning Oracle.<br><br>❓ Feel free to ask me about anything! If I have the knowledge, I'll be happy to assist you, and if I don't, we can explore and learn together.<br><br>⚡ Fun fact: Each year, computer viruses negatively impact the global economy by over $1.5 trillion.</p>
+<p align="left">🔭 I'm currently working on a project called Smile Clinic.<br><br>🌱 I am learning Oracle.<br><br>❓ Feel free to ask me about anything! If I have the knowledge, I'll be happy to assist you, and if I don't, we can explore and learn together.<br><br>⚡ Fun fact: Each year, computer viruses negatively impact the global economy by over $1.5 trillion.</p>
 
 ###
 
